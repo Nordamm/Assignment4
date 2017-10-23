@@ -1,0 +1,11 @@
+/Users/Nordam/Desktop/RAWDATA2017E_Livecode4-master/LiveCode4/bin/Debug/netcoreapp2.0/LiveCode4.deps.json
+/Users/Nordam/Desktop/RAWDATA2017E_Livecode4-master/LiveCode4/bin/Debug/netcoreapp2.0/LiveCode4.runtimeconfig.json
+/Users/Nordam/Desktop/RAWDATA2017E_Livecode4-master/LiveCode4/bin/Debug/netcoreapp2.0/LiveCode4.runtimeconfig.dev.json
+/Users/Nordam/Desktop/RAWDATA2017E_Livecode4-master/LiveCode4/bin/Debug/netcoreapp2.0/LiveCode4.dll
+/Users/Nordam/Desktop/RAWDATA2017E_Livecode4-master/LiveCode4/bin/Debug/netcoreapp2.0/LiveCode4.pdb
+/Users/Nordam/Desktop/RAWDATA2017E_Livecode4-master/LiveCode4/obj/Debug/netcoreapp2.0/LiveCode4.csproj.CoreCompileInputs.cache
+/Users/Nordam/Desktop/RAWDATA2017E_Livecode4-master/LiveCode4/obj/Debug/netcoreapp2.0/LiveCode4.AssemblyInfoInputs.cache
+/Users/Nordam/Desktop/RAWDATA2017E_Livecode4-master/LiveCode4/obj/Debug/netcoreapp2.0/LiveCode4.AssemblyInfo.cs
+/Users/Nordam/Desktop/RAWDATA2017E_Livecode4-master/LiveCode4/obj/Debug/netcoreapp2.0/LiveCode4.dll
+/Users/Nordam/Desktop/RAWDATA2017E_Livecode4-master/LiveCode4/obj/Debug/netcoreapp2.0/LiveCode4.pdb
+/Users/Nordam/Desktop/RAWDATA2017E_Livecode4-master/LiveCode4/obj/Debug/netcoreapp2.0/LiveCode4.csprojResolveAssemblyReference.cache
